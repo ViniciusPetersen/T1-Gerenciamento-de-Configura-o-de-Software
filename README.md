@@ -3,7 +3,7 @@
 Vinicius Becker Petersen
 João Pedro Santos Ceia Ramos
 
-
+https://www.beecrowd.com.br/judge/pt/problems/view/1132
 Múltiplos de 13
 Adaptado por Neilor Tonin, URI  Brasil
 
