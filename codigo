@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class regra_13{
+public static void main(String args[]){
+ try (Scanner scan = new Scanner(System.in)) {
+    double x , y, result; 
+     result = 0;
+     System.out.println("insira o primeiro valor");
+     x=scan.nextInt();
+     System.out.println("insira o segundo valor");
+     y=scan.nextInt();
+     if(x>y){
+    for(double i=y; i<=x; i++){
+    if(i%13!=0){result= i + result;}
+    }
+    }
+     if(y>=x){for(double j=x; j<=y; j++){
+      if(j%13!=0){result= j + result;}
+    }
+    }
+    System.out.println(result);
+} 
+}
+}
