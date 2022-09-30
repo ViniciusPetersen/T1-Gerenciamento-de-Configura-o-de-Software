@@ -15,3 +15,13 @@ O arquivo de entrada contém 2 valores inteiros quaisquer, não necessariamente 
 
 Saída
 Imprima a soma de todos os valores não divisíveis por 13 entre os dois valores lidos na entrada, inclusive ambos se for o caso.
+
+
+
+
+INSTRUCAO
+faca download do arquivo
+descomprima o arquivo
+abra o terminal e digite "cd {local do arquivo}"
+digite "grindlew build"
+digite "grindlew run"
